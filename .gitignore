@@ -35,3 +35,8 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+.terraform.locl.hcl
+
+# OSx Files
+**/*.DS_Store*
+
